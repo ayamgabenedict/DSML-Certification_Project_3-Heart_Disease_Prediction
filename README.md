@@ -128,52 +128,52 @@ The Dataset directory in this project contains the [heart_disease_health_indicat
 
 **The following are screenshoots of the outputs of required tasks in this project:**
 
-![Q1 output](imgs/Q1_a_output.png)
+![Q1 output](imgs/Q1_a_Output.png)
 
-![Q1 output](imgs/Q1_b_output.png)
+![Q1 output](imgs/Q1_b_Output.png)
 
-![Q2 output](imgs/Q2_a_output.png)
+![Q2 output](imgs/Q2_a_Output.png)
 
-![Q2 output](imgs/Q2_b_output.png)
+![Q2 output](imgs/Q2_b_Output.png)
 
-![Q2 output](imgs/Q2_c_output.png)
+![Q2 output](imgs/Q2_c_Output.png)
 
-![Q3 output](imgs/Q3_a_output.png)
+![Q3 output](imgs/Q3_a_Output.png)
 
-![Q3 output](imgs/Q3_b_output.png)
+![Q3 output](imgs/Q3_b_Output.png)
 
-![Q3 output](imgs/Q3_c_output.png)
+![Q3 output](imgs/Q3_c_Output.png)
 
-![Q3 output](imgs/Q3_d_output.png)
+![Q3 output](imgs/Q3_d_Output.png)
 
-![Q3 output](imgs/Q3_e_output.png)
+![Q3 output](imgs/Q3_e_Output.png)
 
-![Q3 output](imgs/Q3_f_output.png)
+![Q3 output](imgs/Q3_f_Output.png)
 
-![Q4 output](imgs/Q4_a_output.png)
+![Q4 output](imgs/Q4_a_Output.png)
 
-![Q4 output](imgs/Q4_b_output.png)
+![Q4 output](imgs/Q4_b_Output.png)
 
-![Q4 output](imgs/Q4_c_output.png)
+![Q4 output](imgs/Q4_c_Output.png)
 
-![Q4 output](imgs/Q4_d_output.png)
+![Q4 output](imgs/Q4_d_Output.png)
 
-![Q4 output](imgs/Q4_e_output.png)
+![Q4 output](imgs/Q4_e_Output.png)
 
-![Q4 output](imgs/Q4_f_output.png)
+![Q4 output](imgs/Q4_f_Output.png)
 
-![Q4 output](imgs/Q4_g_output.png)
+![Q4 output](imgs/Q4_g_Output.png)
 
-![Q5 output](imgs/Q5_a_output.png)
+![Q5 output](imgs/Q5_a_Output.png)
 
-![Q5 output](imgs/Q5_b_output.png)
+![Q5 output](imgs/Q5_b_Output.png)
 
-![Q6_output](imgs/Q6_a_output.png)
+![Q6_output](imgs/Q6_a_Output.png)
 
-![Q6_output](imgs/Q6_b_output.png)
+![Q6_output](imgs/Q6_b_Output.png)
 
-![Q6_output](imgs\Q6_c_output.png)
+![Q6_output](imgs/Q6_c_Output.png)
 
-![Q7_output](imgs/Q7_output.png)
+![Q7_output](imgs/Q7_Output.png)
 
-![Q8_output](imgs/Q8_output.png)
+![Q8_output](imgs/Q8_Output.png)
